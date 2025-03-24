@@ -2,6 +2,8 @@ import React from 'react'
 import logo1 from '../img/logo1.jpg'
 import logo2 from '../img/logo2.jpg'
 import logo3 from '../img/logo3.jpg'
+import logo4 from '../img/logo4.jpg'
+import logo5 from '../img/logo5.jpg'
 
 function Header() {
   return (
@@ -25,7 +27,7 @@ function Header() {
                     </div>
 
                     <div className='header1-flex-logo2'>
-                        <a href="https://www.disneyplus.com"><img src={logo2}/></a>
+                        <a href="https://www.mercadolibre.cl/"><img src={logo4}/></a>
                     </div>
 
 

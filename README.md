@@ -1,8 +1,6 @@
-# React + Vite
+* Clon de Mercado libre *
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"Bienvenido a este sitio web. Este proyecto es una réplica creada con fines puramente educativos para practicar habilidades de desarrollo web utilizando HTML, CSS, JavaScript y React. No está afiliado, respaldado ni asociado de ninguna manera con el sitio original. No tiene fines comerciales ni busca generar lucro. ¡Gracias por visitarlo!"
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
